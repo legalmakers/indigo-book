@@ -17,10 +17,10 @@ up new possibilities for making tools that work with legal citations. To take th
 could write a script or macro that automatically abbreviates specific words in a case name, 
 using this HTML as a data source. Many other possibilities come to mind. If you make something cool 
 using *The Indigo Book* as a foundation, please feel free to share. That's what GitHub is for, after all, 
-and the famous[Venn diagram about there being no lawyers on GitHub](http://blog.ted.com/further-reading-in-github/)
+and the famous [Venn diagram about there being no lawyers on GitHub](http://blog.ted.com/further-reading-in-github/)
 is [not strictly speaking true](https://github.com/dpp/lawyersongithub).
 
 ## No claim of ownership
 
 *The Indigo Book* bears a "CC0 Public Domain" copyright notice. In that spirit, the same [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode#languages)
-is applied to other materials in the 'legalmakers/indigo-book' repository.
+is applied to other materials in the `legalmakers/indigo-book` repository.
