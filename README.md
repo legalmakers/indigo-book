@@ -1,9 +1,9 @@
 # Indigo Book
 *An unofficial repository containing the unofficial Indigo Book public-domain citation project (unofficially, of course).*
 
-This repository contains a copy of the raw HTML behind *The Indigo Book: A Manual of Legal Citation*,
-a public-domain citation guide for legal materials. Its unusual color choice stems from protests by the
-publisher of a book of a different color; more details are on [Wikipedia](https://en.wikipedia.org/wiki/The_Indigo_Book).
+This repository contains a copy of the raw HTML behind *The Indigo Book*, a public-domain citation guide for legal materials. 
+*See* Sprigman, et al., *The Indigo Book: A Manual of Legal Citation*, Public Resource (2016). Its unusual color choice stems 
+from protests by the publisher of a book of a different color; more details are on [Wikipedia](https://en.wikipedia.org/wiki/The_Indigo_Book).
 
 This repository is doubly unofficial. having no affiliation with the publisher of the Indigo 
 Book. The publisher hosts the authoritative copy on [law.resource.org](https://law.resource.org/pub/us/code/blue/IndigoBook.html), 
